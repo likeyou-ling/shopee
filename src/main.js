@@ -2,6 +2,9 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+import 'css/base.css'
+import 'vue-swipe/dist/vue-swipe.css'
+import 'vue-swipe/dist/vue-swipe.js'
 
 Vue.config.productionTip = false
 
